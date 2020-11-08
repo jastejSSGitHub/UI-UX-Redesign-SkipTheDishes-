@@ -1,3 +1,4 @@
+Check out Redesign UI at: http://jastejsehra.com/redesign.html
 # UI-UX-Redesign-SkipTheDishes
 
 Redesigned for elder people, this change in User Interface and experience is specially catered to streamline the process of ordering food at home, for users of Skip The Dishes, that are not tech savvy and can get a hot meal delivered to their doorstep during the peak of covid-19, with efficient affordances in the new app redesign.
